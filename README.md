@@ -46,3 +46,14 @@ Full details are documented in the Final Report (PDF).
 Full insights and recommendations are in the Final Report (PDF).
 
 ## Repository Contents
+## How to View
+1. Open the .pbix file in Power BI Desktop (free download from Microsoft) to explore the interactive dashboard
+2. Or view the static screenshots and PDF report for a non-interactive summary
+
+## Demo Video
+
+
+## Acknowledgment
+This project was completed as the final capstone for the AnalystLab Africa Batch B Data Analytics Internship (June 1 – August 1, 2026).
+
+#AnalystLabAfrica
